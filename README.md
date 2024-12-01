@@ -1,1 +1,2 @@
 # Breast-Cancer-Analysis
+The primary cause of death for women is breast cancer. In medical data analysis, breast cancer prediction is a difficult task. To make decisions and distinguish between benign and malignant tumors, physicians and pathologists needed some automated technologies. When the medical industry gathers data, a machine learning (ML) algorithm greatly aids in decision-making and diagnosis. Numerous studies demonstrate the value of machine learning techniques in decision-making related to breast cancer prediction. In this project I tried doing the same.
